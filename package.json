@@ -1,0 +1,12 @@
+{
+  "name": "homelab-ts",
+  "version": "0.1.0",
+  "main": "main.ts",
+  "repository": "git@github.com:noosxe/homelab-ts.git",
+  "author": "Levon Kirakosyan <noosx.e@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@pulumi/pulumi": "^3.54.0"
+  }
+}
