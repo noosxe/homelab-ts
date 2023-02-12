@@ -14,6 +14,13 @@
   resolved "https://registry.yarnpkg.com/@logdna/tail-file/-/tail-file-2.2.0.tgz#158a362d293f940dacfd07c835bf3ae2f9e0455a"
   integrity sha512-XGSsWDweP80Fks16lwkAUIr54ICyBs6PsI4mpfTLQaWgEJRtY9xEV+PeyDpJ+sJEGZxqINlpmAwe/6tS1pP8Ng==
 
+"@muhlba91/pulumi-proxmoxve@^2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@muhlba91/pulumi-proxmoxve/-/pulumi-proxmoxve-2.3.1.tgz#dbe78666bc6b43dcf8ae19f14dde43e951090e6b"
+  integrity sha512-TmD2I2r3KleBRiUAytWOJ4ayoFQgY2iMvL4t7xnNdunXcJo7G/A+hWLVjPYUWcUpPgCSzoLgAmxWgYQwJIAbEw==
+  dependencies:
+    "@pulumi/pulumi" "^3.0.0"
+
 "@opentelemetry/api-metrics@0.32.0":
   version "0.32.0"
   resolved "https://registry.yarnpkg.com/@opentelemetry/api-metrics/-/api-metrics-0.32.0.tgz#0f09f78491a4b301ddf54a8b8a38ffa99981f645"
@@ -120,7 +127,7 @@
   resolved "https://registry.yarnpkg.com/@opentelemetry/semantic-conventions/-/semantic-conventions-1.9.1.tgz#ad3367684a57879392513479e0a436cb2ac46dad"
   integrity sha512-oPQdbFDmZvjXk5ZDoBGXG8B4tSB/qW5vQunJWQMFUBp7Xe8O1ByPANueJ+Jzg58esEBegyyxZ7LRmfJr7kFcFg==
 
-"@pulumi/pulumi@^3.54.0":
+"@pulumi/pulumi@^3.0.0":
   version "3.54.0"
   resolved "https://registry.yarnpkg.com/@pulumi/pulumi/-/pulumi-3.54.0.tgz#de3abdb09912857f2e4ef30684e23c105ce8320e"
   integrity sha512-7c56BCsepB9gIN1jOpBHCQyx/aSyURmuW6fV9y6aw1IspgJqBylvLCfE+5tA0i6UedaAvf8xV4R58ckgbFM5Vg==
@@ -158,6 +165,11 @@
   version "18.13.0"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.13.0.tgz#0400d1e6ce87e9d3032c19eb6c58205b0d3f7850"
   integrity sha512-gC3TazRzGoOnoKAhUx+Q0t8S9Tzs74z7m0ipwGpSqQrleP14hKxP4/JUeEQcD3W1/aIpnWl8pHowI7WokuZpXg==
+
+"@types/node@^16":
+  version "16.18.12"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.12.tgz#e3bfea80e31523fde4292a6118f19ffa24fd6f65"
+  integrity sha512-vzLe5NaNMjIE3mcddFVGlAXN1LEWueUsMsOJWaT6wWMJGyljHAWHznqfnKUQWGzu7TLPrGvWdNAsvQYW+C0xtw==
 
 argparse@^1.0.7:
   version "1.0.10"

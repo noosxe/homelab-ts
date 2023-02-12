@@ -1,0 +1,9 @@
+config:
+  homelab-ts:pveEndpoint:
+    secure: AAABAJSqL9k93GxLaTIJzXpOc/RjqAWf+ws4nifs8eTVsnEUlAUNHQEJZ5UBzKnDlFv5lBzVxU/Kw5fcfIcuzO7MsBWc5g==
+  homelab-ts:pveNode:
+    secure: AAABAFmLLCVPk5e9GDDdO2nq7a6/9G9Ak0nT1CjYmWnspSkfHA==
+  homelab-ts:pvePassword:
+    secure: AAABAGcFwbCmEc2uGnB2Ouvmxf4Dhd4ulkweTOyMQtR/FQbQBDHHtBcz2vDKmQ==
+  homelab-ts:pveUser:
+    secure: AAABAFNqe/YACj9wDQNUtyP7xcMrqGYNdGsG7lK8ML4nl9prwXHs
